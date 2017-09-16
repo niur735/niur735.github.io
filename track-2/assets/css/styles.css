@@ -1,0 +1,35 @@
+body{
+	font-family: Andale Mono;
+	font-size: 10pt;
+	color: #979797;
+  
+}
+
+footer{
+	font-family: Andale Mono;
+	font-size: 10pt;
+	color: #FFFFFF;
+	background: #979797
+}
+
+body{
+	margin-left: 100px;
+	margin-right: 100px;
+}
+
+h5{
+	margin-left: 1000px;
+}
+
+h4{
+	margin-left: 230px;
+}
+
+a{
+	color: #FFFFFF
+}
+
+img{
+	margin-top: 20px
+    margin-bottom:5px;
+}
