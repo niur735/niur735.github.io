@@ -33,3 +33,9 @@ img{
 	margin-top: 20px
     margin-right: 100px;
 }
+
+.rule {
+	width: 200px;
+	height: 20px;
+	background: #ccc;
+}
