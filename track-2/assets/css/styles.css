@@ -18,7 +18,7 @@ body{
 }
 
 h5{
-	margin-left: 1000px;
+	margin-left: 1100px;
 }
 
 h4{
@@ -35,7 +35,8 @@ img{
 }
 
 .rule {
-	width: 200px;
-	height: 20px;
+	width: 1230px;
+	height: 1px;
 	background: #ccc;
+	margin-top: 0;
 }
