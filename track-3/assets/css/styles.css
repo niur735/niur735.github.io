@@ -1,0 +1,47 @@
+
+
+body{
+	font-family: Andale Mono;
+	font-size: 10pt;
+	color: #979797;
+  
+}
+
+p{
+	margin-left: 588px;
+
+}
+
+.logo{margin-left: 588px;
+margin-top: 44px;}
+
+.answer{margin-left: 508px;
+margin-bottom: 80px;}
+
+.rule{color: #FFF;
+background: #979797;
+margin-top: 54px;
+margin-left: 558px;
+width: 210px;
+}
+
+
+.firstline{	margin-top: 133px;}
+
+.magic{margin-top: 90px;
+display: inline-block;
+}
+
+.magic1{margin-left: 530px;}
+
+.start{margin-top: 60px;}
+
+footer{font-family: Andale Mono;
+	font-size: 10pt;
+	color: #FFFFFF;
+	background: #979797}
+
+.foot{margin-left: 528px}
+.relax{margin-left: 618px}
+
+a{color:#FFF;}
