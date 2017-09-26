@@ -4,7 +4,6 @@ body{
 	font-family: Andale Mono;
 	font-size: 10pt;
 	color: #979797;
-  
 }
 
 p{
@@ -21,12 +20,15 @@ margin-bottom: 80px;}
 .rule{color: #FFF;
 background: #979797;
 margin-top: 54px;
-margin-left: 558px;
-width: 210px;
+margin-left: 30px;
+margin-right: 30px;
 }
 
+.begin{
+	margin-left: 533px;
+}
 
-.firstline{	margin-top: 133px;}
+.firstline{	margin-top: 113px;}
 
 .magic{margin-top: 90px;
 display: inline-block;
@@ -39,7 +41,8 @@ display: inline-block;
 footer{font-family: Andale Mono;
 	font-size: 10pt;
 	color: #FFFFFF;
-	background: #979797}
+	background: #979797
+}
 
 .foot{margin-left: 528px}
 .relax{margin-left: 618px}
