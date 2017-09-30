@@ -41,9 +41,9 @@ body{
 	width: 172px; 
     height: 258px;
     margin-top: 300px;
-    margin-left: 357px;
+    margin-left: 277px;
 }
-.eyetext{margin-left: 267px;}
+.eyetext{margin-left: 167px;}
 
 .book{
     width: 302px;
@@ -56,10 +56,10 @@ body{
 .hand{
     width: 337px;
     height: 256px;
-    margin-left: 315px;
+    margin-left: 235px;
      margin-top: 150px
 }
-.handtext{ margin-left: 277px;}
+.handtext{ margin-left: 177px;}
 
 .flower{
 	width: 201px;
@@ -70,10 +70,10 @@ body{
 .flowertext{margin-left: 766px;}
 
 iframe{
-	margin-left: 357px;
+	margin-left: 277px;
 	margin-top: 150px
 }
-.musictext{ margin-left: 327px;
+.musictext{ margin-left: 227px;
 margin-top: 20px;}
 
 footer{font-family: Andale Mono;
