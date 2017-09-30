@@ -1,0 +1,87 @@
+body{
+	background: #000;
+    font-family: Andale Mono;
+	font-size: 12pt;
+	color: #979797;
+}
+
+
+.rule {
+	width: 1404px;
+	height: 2px;
+	background: #ccc;
+	margin-top: 0;
+	position: absolute;
+	top: 282px;
+
+}
+
+.logo{
+	width: 179px;
+	height: 179px;
+	margin-left: 633px;
+	margin-top: 10px; 
+}
+.question{
+	text-align: center;
+	color: #fff;
+}
+
+.stay{
+	position: fixed;
+	top: 0px;
+	background: #000;
+	width: 1404px;
+	height: 244px;	
+	margin: 0 20px 20px 0;
+	padding: 20px;
+}
+
+.eye{
+	width: 172px; 
+    height: 258px;
+    margin-top: 300px;
+    margin-left: 357px;
+}
+.eyetext{margin-left: 267px;}
+
+.book{
+    width: 302px;
+    height: 302px;
+    margin-left: 913px;
+    margin-top: 150px
+}
+.booktext{margin-left: 886px;}
+
+.hand{
+    width: 337px;
+    height: 256px;
+    margin-left: 315px;
+     margin-top: 150px
+}
+.handtext{ margin-left: 277px;}
+
+.flower{
+	width: 201px;
+    height: 302px;
+    margin-left: 901px;
+     margin-top: 150px;
+}
+.flowertext{margin-left: 766px;}
+
+iframe{
+	margin-left: 357px;
+	margin-top: 150px
+}
+.musictext{ margin-left: 327px;
+margin-top: 20px;}
+
+footer{font-family: Andale Mono;
+	font-size: 12pt;
+	color: #FFF;
+	background: #000
+}
+
+.foot{text-align: center;}
+.relax{text-align: center;}
+a{color:#FFF;}
