@@ -1,0 +1,125 @@
+body{
+	background: #000;
+    font-family: Andale Mono;
+	font-size: 12pt;
+	color: #979797;
+}
+
+
+.rule {
+	width: 1404px;
+	height: 2px;
+	background: #ccc;
+	margin-top: 0;
+	position: absolute;
+	top: 150px;
+
+}
+
+.logo{
+	width: 100px;
+	height: 100px;
+	margin-left: 70px;
+	margin-top: 20px; 
+}
+.question{
+	background: #000;
+	width: 244px;
+	height: 40px;
+	color: #979797;
+	position: absolute;
+	top:60px;
+	right: 70px;
+	font-size: 10pt;
+}
+
+
+
+.beach{
+    width: 249px;
+	height: 249px;
+	background: url(../img/beach.png) no-repeat;
+	transition: all 1000ms ease;
+}
+.beach:hover{
+	background-position: -249px 0; 
+}
+.beach-wrapper{
+	margin-left: 650px;
+	margin-top: 300px;
+	transform: translate(-50%,-50%);
+}
+.beachtext{
+	color: #fff;
+	position: absolute;
+	top:380px;
+	right: 100px;
+	font-size: 10pt;
+}
+
+
+.boat{
+    width: 323px;
+	height: 231px;
+	background: url(../img/boat.png) no-repeat;
+	transition: all 1000ms ease;
+}
+.boat:hover{
+	background-position: -323px 0; 
+}
+.boat-wrapper{
+	margin-left: 1100px;
+	margin-top: 160px;
+	transform: translate(-50%,-50%);
+}
+.boattext{
+	color: #fff;
+	position: absolute;
+	top:735px;
+	left: 152px;
+	font-size: 10pt;
+}
+
+.moon{
+    width: 274px;
+	height: 274px;
+	background: url(../img/moon.png) no-repeat;
+	transition: all 1000ms ease;
+}
+.moon:hover{
+	background-position: -274px 0; 
+}
+.moon-wrapper{
+	margin-left: 620px;
+	margin-top: 160px;
+	transform: translate(-50%,-50%);
+}
+.moontext{
+	color: #fff;
+	position: absolute;
+	top:1130px;
+	right: 100px;
+	font-size: 10pt;
+}
+
+.poem{
+	font-family: Andale Mono;
+	font-size: 10pt;
+	color: #979797;
+	background: #000
+	width: 450px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+
+footer{font-family: Andale Mono;
+	font-size: 12pt;
+	color: #979797;
+	background: url(../img/foot.jpg);
+	height: 964px;
+	width: 1445px;
+	margin-bottom: 0;
+}
+.foot{text-align: center;}
+a{color:#979797;}
