@@ -1,6 +1,7 @@
-var cash = 100000;
+var time = 24;
+console.log(time);
 
-$('.cash').html(cash);
+$('.time').html(time);
 
 $('.item').click(function() {
 	var item   = $(this).data('item');
@@ -11,16 +12,19 @@ $('.item').click(function() {
 
 
 function charge_card(amount, item) {
-   if (cash >= amount) {
-   cash = cash - amount;
+   if (time >= amount) {
+   time = time - amount;
+   console.log(time);
    update_wallet();
    $('.closet-items').append(item + ', ');
    } else{
-   	alter('not enough money.');
+   	alter('not enough time.');
    }
 }
 
 function update_wallet(){
-	$('.cash').html(cash);
+	$('.time').html(time);
 }
+
+
 

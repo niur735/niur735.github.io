@@ -1,0 +1,129 @@
+*{box-sizing: border-box;
+  vertical-align: top;}
+
+body{
+	margin: 0;
+	padding: 0;
+    background: #D1D1D1;
+}
+
+.rule {
+	width: 1300px;
+	height: 2px;
+	background: #979797;
+	margin-top: 30px;
+	margin-left: 60px;
+}
+.title1{
+    font-family: Ubuntu;
+	font-size: 16pt;
+	color: #979797;
+	margin: 41px auto auto 62px;
+}
+
+.logo1{
+	height: 68px;
+	width: 68px;
+	position: absolute;
+	right: 76px;
+	top: 40px;
+}
+
+html, body {height: 100%;}
+
+.nav-item{
+	padding: 10px 20px;
+	display: inline-block;
+	font-size: 20px;
+	margin: 0 15px 15px 0;
+}
+
+ul, li{
+	list-style: none;
+	margin: 0;
+	padding: 0; 
+	font-family: Ubuntu;
+	color: #989898;
+}
+
+.wrapper{
+	width: 100%;
+	height: 100%;
+}
+.nav{
+	margin-left: 8px;
+}
+.column{
+	width: 48%;
+	display: inline-block;
+	height: 100%;
+	padding: 30px;
+}
+
+.content{
+	background: #f1f1f1;
+	height: 100%;
+	font-size: 20px;
+	font-family: Ubuntu;
+	color: #989898;
+	text-align: center;
+	padding-top: 100px;
+}
+
+.sleep{
+	height: 106px;
+	width: : 107px;
+	cursor: pointer;
+}
+
+.eat{
+	height: 190px;
+	width: 107px;
+	cursor: pointer;
+}
+
+.shower{
+	height: 133px;
+	width: 107px;
+	cursor: pointer;
+}
+
+.subway{
+	height: 161px;
+	width: 107px;
+	cursor: pointer;
+}
+
+.work{
+	height: 88px;
+	width: 107px;
+	cursor: pointer;
+}
+
+.relax{
+	height: 133px;
+	width: 107px;
+	cursor: pointer;
+}
+
+img{
+	margin-left: 105px;
+}
+
+.wallet{margin-top: 45px;}
+
+.end{
+    font-family: Ubuntu;
+	font-size: 12pt;
+	color: #979797;
+	text-align: center;
+}
+a{
+	cursor: pointer;
+	color: #fff;
+}
+
+
+
+
+
