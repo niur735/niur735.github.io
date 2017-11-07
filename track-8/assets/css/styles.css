@@ -22,12 +22,12 @@ img{
 	top: 90px;
 }
 
-.circle:hover{
+.button:hover{
 	background: #000;
 	color: #FBFF97;
 
 }
-.circle{
+.button{
 	z-index: 1;
 }
 
@@ -39,7 +39,7 @@ img{
 	position: absolute;
 	transform: translate(-20%,0%);
 	left: 20%;
-	top: 200px;
+	top: 27%;
 	cursor: pointer;
 }
 .circle2{
@@ -50,7 +50,7 @@ img{
 	position: absolute;
 	transform: translate(-80%,0%);
 	left: 80%;
-	top: 200px;
+	top: 27%;
 	cursor: pointer;
 }
 .circle3{
@@ -61,7 +61,7 @@ img{
 	position: absolute;
 	transform: translate(-80%,0%);
 	left: 80%;
-	top: 600px;
+	top: 83%;
 	cursor: pointer;
 }
 .circle4{
@@ -72,32 +72,46 @@ img{
 	position: absolute;
 	transform: translate(-20%,0%);
 	left: 20%;
-	top: 600px;
+	top: 83%;
 	cursor: pointer;
 }
-.maintext,.birthtext,.marriagetext,.worktext,.doomtext{
+.display-text{
     width: 57%;
-    height: 400px;
+    height: 40%;
     outline-style: dashed;
     outline-color: #585858;
-    color: #585858;
-    font-family: Gill sans;
-    font-size: 10pt;
+    color: #ccc;
+    font-family: Quicksand;
+    font-size: 13pt;
     text-align: center;
     position: absolute;
     left: 21.5%;
-    top: 225px;
+    top: 31%;
     min-width: 40%;
     z-index: 0;
-    line-height: 10px;
-}
+    line-height: 20px;
+    padding-top: 8%;
 
+}
+.birthtext,.marriagetext,.worktext,.doomtext{
+    width: 70%;
+    height: 36%;
+    color: #585858;
+    font-family: Quicksand;
+    font-size: 12pt;
+    text-align: center;
+    position: absolute;
+    left: 16%;
+    top: 29%;
+    min-width: 40%;
+    z-index: 0;
+    line-height: 20px;
+}
 .title{
 	font-family: Gill sans;
-    font-size: 12pt;
+    font-size: 15pt;
 }
 
-.hide{display: none;}
 .rule2{
 	width: 52%;
 	height: 2px;
@@ -105,7 +119,7 @@ img{
 	position: absolute;
 	transform: translate(-50%,0%);
 	left: 50%;
-	top: 750px;
+	top: 108%;
 }
 a{color: #585858;}
 
@@ -117,7 +131,6 @@ a{color: #585858;}
 	position: absolute;
 	left: 50%;
 	transform: translate(-50%,0%);
-	top: 780px;
+	top: 112%;
 }
-
 
