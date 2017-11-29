@@ -1,27 +1,49 @@
-*{color: #ccc;}
-img{
-	position: absolute;
-	top: 20%;
-	left: 50%;
-	transform: translate(-50%, -20%);
+*{color: #797979;}
+body{background-color: #f1f1f1;}
+.homepage{
+	position: fixed;
+	top: 2%;
+	left: 3%;
+	z-index: 1;
+}
+.nextpage{
+	position: fixed;
+	bottom: 3%;
+	right: 3%;
+	z-index: 1;
 }
 
 .maintext{
-	margin-top: 20px;
-	text-align: center;
-	font-family: Optima;
+	margin-left: 880px;
+	width: 354px;
+	margin-top: 200px;
+	font-family: Gill Sans, Bold;
+	font-size: 22pt;
 }
-
+.deco{
+	position: absolute;
+	left: 80px;
+	width: 354px;
+	top: 250px;
+	font-family: Allerta Stencil;
+	font-size: 80pt;
+	z-index: -1;
+}
 .title{
-	font-size: 24pt;
-	font-family: Optima;
-	margin-top: 250px;
-	text-align: center;
+	font-size: 63pt;
+	font-family: Allerta Stencil;
+	position:fixed;
+	top: 5.5%;
+	left: 5.9%; 
+		z-index: 1;
 }
 .author{
-	margin-top: 90px;
-	font-family: Optima;
-	text-align: center;
+	margin-left: 880px;
+	width: 354px;
+	margin-top: 170px;
+	font-family: Allerta Stencil;
+	font-size: 18pt;
+	margin-bottom: 300px;
 }
 footer{
 	height: 200px;
@@ -32,7 +54,35 @@ footer{
 }
 a{color: #ccc;}
 
-.a:hover,.b:hover,.c:hover,.d:hover,.e:hover,.g:hover,.h:hover{
-	font-size: 24pt;
-	color: #000;
+.topcurtain{
+	width: 400px;
+	height: 200px;
+	background-color: #f1f1f1;
+	position: fixed;
+	left: 850px;
+	top: 0;
+}
+.botcurtain{
+	width: 400px;
+	height: 400px;
+	background-color: #f1f1f1;
+	position: fixed;
+	left: 850px;
+	top: 450px;
+}
+.topcurtain2{
+	width: 600px;
+	height: 300px;
+	background-color: #f1f1f1;
+	position: fixed;
+	left: 70px;
+	top: 0;
+}
+.botcurtain2{
+	width: 600px;
+	height: 400px;
+	background-color: #f1f1f1;
+	position: fixed;
+	left: 70px;
+	top: 450px;
 }
