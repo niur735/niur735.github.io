@@ -1,0 +1,155 @@
+body{background: #000;}
+
+.maincircle{
+	height: 400px;
+	width: 400px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	min-width: 100px;
+	min-height: 100px;
+}
+.blackcircle{
+	width: 380px;
+	height: 380px;
+	border-radius: 100%;
+	background: #000;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	    z-index: 0;
+}
+.circle1{
+	width: 45px;
+	height: 45px;
+	border-radius: 100%;
+	background: #f1f1f1;
+	position: absolute;
+	left: 40.2%;
+	top: 26.6%;
+}
+.circle2{
+	width: 45px;
+	height: 45px;
+	border-radius: 100%;
+	background: #bfbfbf;
+	position: absolute;
+	top: 26.4%;
+	right: 40.8%;
+}
+.circle3{
+	border-radius: 100%;
+	background: #808080;
+	width: 45px;
+	height: 45px;
+	position: absolute;
+	top: 54.7%;
+	right: 36%;
+}
+.circle4{
+	border-radius: 100%;
+	background: #666;
+	width: 45px;
+	height: 45px;
+	position: absolute;
+	top: 71.5%;
+	left: 48.5%;
+}
+
+.circle5{
+	border-radius: 100%;
+	background: #353535;
+	width: 45px;
+	height: 45px;
+	position: absolute;
+	top: 55.3%;
+	left: 36%;
+}
+.circle1:hover, .circle2:hover, .circle3:hover, .circle4:hover, .circle5:hover{
+	background: #f1f173;
+}
+
+.arrow1{
+	height: 330px;
+	width: 330px;
+position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	    z-index: -1;
+}
+.arrow2{
+	height: 330px;
+	width: 330px;
+position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	    z-index: -1;
+}
+.arrow3{
+	height: 330px;
+	width: 330px;
+position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	    z-index: -1;
+}
+.arrow4{
+	height: 330px;
+	width: 330px;
+position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	    z-index: -1;
+}
+.arrow5{
+	height: 330px;
+	width: 330px;
+position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	    z-index: -1;
+}
+
+.quote1{
+	color: #000;
+	font-family: Abril Fatface;
+	position: absolute;
+	top: 92%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+.quote2{
+	color: #000;
+	font-family: Abril Fatface;
+	position: absolute;
+	top: 96%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+.quote1:hover,.quote2:hover{
+		color: #666;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
