@@ -1,11 +1,11 @@
 body{
-background-color: #e5e5e5;
+background-color: #dedede;
 }
 
 .front{
 	width: 100%;
 	height: 800px;
-	background-color: #e5e5e5;
+	background-color: #dedede;
 	position: fixed;
 	top: 150;
 	z-index: 1;
@@ -75,7 +75,7 @@ background-color: #e5e5e5;
 	height: 100px;
 	position: flex;
 	bottom: 0;
-	background-color: #e5e5e5;
+	background-color: #dedede;
 	left: 0;
 }
 
@@ -88,7 +88,7 @@ background-color: #e5e5e5;
 .topcurtain{
 	width: 100%;
 	height: 150px;
-	background-color: #e5e5e5;
+	background-color: #dedede;
 	position: fixed;
 	top: 0;
 }

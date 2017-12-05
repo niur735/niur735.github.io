@@ -1,0 +1,41 @@
+*{background-color: #000;}
+.clock{
+	height: 90px;
+	width: 90px;
+	position: absolute;
+	top: 20px;
+	right: 20px;
+	cursor: pointer;
+}
+
+.question{
+	font-size: 70pt;
+	color: #fff;
+	font-family: Abril Fatface;
+	cursor: pointer;
+	text-align: right;
+	position: absolute;
+	top: 170px;
+	right: 20px;
+}
+.question:hover{
+	color: #ccc;
+}
+.big{
+	font-size: 90pt;
+}
+
+.background{
+	height: 700px;
+	width: 700px;
+	position: absolute;
+	left: -200px;
+	top: 10px;
+}
+
+.lastpage{
+	position: fixed;
+	bottom: 3%;
+	left: 3%;
+	z-index: 1;
+}
